@@ -1,0 +1,9 @@
+PUT http://localhost:3001/api/notes/634463e9824b794065be05ae
+content-type: application/json
+
+{
+  "content": "hi how are you",
+  "date": "2022-10-10T18:26:49.857Z",
+  "important": false,
+  "id": "634463e9824b794065be05ae"
+}
